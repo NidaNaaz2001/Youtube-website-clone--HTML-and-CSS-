@@ -1,0 +1,169 @@
+.red-square{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  margin-bottom: 20px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+}
+
+.green-circle{
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  background-color: green;
+  display:inline-block;
+  vertical-align: top;
+ 
+}
+.quiz{
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(150, 150, 150);
+  width: 300px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.yes{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-top: 5px;
+  margin-right: 2px;
+}
+
+.No{
+  display:inline-block;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.yt{
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: rgb(39, 37, 37);
+  width: 300px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  display: block;
+  margin-bottom: 40px;
+}
+
+.first{
+  font-family:Arial;
+  color: rgb(210, 210, 210);
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.second{
+  font-family:Arial;
+  color: rgb(210, 210, 210);
+  font-size: 13px;
+  margin-top: 0px;
+}
+
+.pic{
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  vertical-align: center;
+}
+
+.what{
+  font-family:Arial;
+  color: rgb(181, 180, 180);
+  font-size: 15px;
+  width:200px;
+  display:inline-block;
+  text-align: center;
+  margin-right: 10px;
+  vertical-align: center;
+}
+
+.Tweet{
+  color:white;
+  background-color: rgb(35, 35, 186);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 10px;
+  height:25px;
+  border-radius:13px ;
+  vertical-align: center;
+}
+
+.inst{
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(109, 107, 107);
+  background-color: white;
+  width: 300px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  display: block;
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 1px 1px rgb(109, 107, 107);
+  border: none;
+  margin-bottom: :100px;
+}
+
+.img{
+  display:block;
+  margin-bottom: 10px;
+  margin-left: 200px; 
+  margin-top: 100px; 
+}
+
+.search{
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  width:560px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  display: block;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  border-radius:20px ;
+  border-width: 1px;
+  border-color: rgb(152, 149, 149);
+}
+
+
+.GS{
+  margin-left: 200px;
+  color: black;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.FL{
+  color: black;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+
+}

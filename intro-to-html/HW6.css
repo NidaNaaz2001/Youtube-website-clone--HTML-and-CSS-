@@ -1,0 +1,22 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: Roboto;
+  width: 300px;
+}
+.title{
+
+  font-weight: bold;
+  font-size: 35px;
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+.under{
+  font-size: 15px;
+}
+
+.line{
+  text-decoration: underline;
+}
